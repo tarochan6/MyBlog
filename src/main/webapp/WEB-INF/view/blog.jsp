@@ -9,6 +9,6 @@
 <link rel="stylesheet" href="<%= request.getContextPath() %>/css/style.css">
 </head>
 <body>
-
+<h1>あああ</h1>
 </body>
 </html>
